@@ -12,21 +12,21 @@
       "surname": "Whinston",
       "sex": "female",
       "age": 31,
-      "photo": "https://onthewingsoflove.blob.core.windows.net/album/011816-Angela/1.jpg"
+      "photo": "https://chibe.upenn.edu/wp-content/uploads/2017/04/Angela-Headshot-e1493130546752.jpg"
     },
     {
       "name": "Alex",
       "surname": "Solberry",
       "sex": "male",
       "age": 35,
-      "photo": "https://www.gv.com/img/team-large/john-lyman.jpg"
+      "photo": "https://pbs.twimg.com/profile_images/1338538772590284800/iEFz8OWz_400x400.jpg"
     },
     {
       "name": "Anna",
       "surname": "Rayan",
       "sex": "female",
       "age": 23,
-      "photo": "https://pbs.twimg.com/profile_images/1127551365918679040/On8uLuSc.jpg"
+      "photo": "https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQVvju8QZmYhMKAWrROhF1tinD0Atq4Nxd82zj4UEZR-0Kcvggb0k9zFJvzBCFOkq31fQ3UpVHue2skKSFPLFdBTPXhfO9MekXmJ1NG1LKzYZxXSeroEe0OKljl7UimWUJjYd4BggxMj1ClRl9Y6IE_OBlNg.jpg?r=eb3"
     },
     {
       "name": "Michael",
@@ -34,6 +34,16 @@
       "sex": "male",
       "age": 30,
       "photo": "https://wwwimage-secure.cbsstatic.com/thumbnails/photos/w425/cast/3b2b388f58aae2da_yr_michaelm_800x1000.jpg"
+    },
+    {
+      "name": "te",
+      "age": "te",
+      "id": "0.8123287650716429"
+    },
+    {
+      "name": "t",
+      "age": "t",
+      "id": "0.3095527046128981"
     }
   ]
 }
