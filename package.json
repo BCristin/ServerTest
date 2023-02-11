@@ -1,0 +1,22 @@
+{
+  "name": "servertest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macedu1/ServerTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macedu1/ServerTest/issues"
+  },
+  "homepage": "https://github.com/macedu1/ServerTest#readme",
+  "devDependencies": {
+    "eslint": "^8.34.0"
+  }
+}
